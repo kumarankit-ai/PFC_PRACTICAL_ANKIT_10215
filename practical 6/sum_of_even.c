@@ -17,3 +17,8 @@ int main() {
     printf("Sum of even numbers = %d", sum);
     return 0;
 }
+
+
+//Output:
+// Enter n: 5
+// Sum of even numbers = 6
