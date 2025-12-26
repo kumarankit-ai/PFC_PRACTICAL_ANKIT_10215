@@ -19,3 +19,9 @@ int main() {
     printf("After swapping: x = %d, y = %d", x, y);
     return 0;
 }
+
+
+
+//Enter two number: 4 5
+//after swapping: x=5 , y=4
+//
