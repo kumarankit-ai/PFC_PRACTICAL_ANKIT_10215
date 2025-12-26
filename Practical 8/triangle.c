@@ -20,3 +20,11 @@ int main() {
     triangle(n);
     return 0;
 }
+
+
+//Output:
+// Enter height: 4
+// *
+// * *
+// * * *
+// * * * *    
