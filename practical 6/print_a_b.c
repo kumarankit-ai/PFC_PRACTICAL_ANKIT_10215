@@ -13,3 +13,8 @@ int main() {
     }
     return 0;
 }
+
+
+// Output:
+// Enter a and b: 1 5
+// 1 2 3 4 5 
