@@ -20,3 +20,9 @@ int main() {
     printf("Sum of digits = %d", sumOfDigits(n));
     return 0;
 }
+
+
+
+//output:
+//Enter your number:111
+//sum:3
